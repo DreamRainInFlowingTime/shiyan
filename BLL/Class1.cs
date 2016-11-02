@@ -13,9 +13,7 @@ namespace BLL
 
     public class Class1
     {
-        public void wogailebllceng
-        {
-        }
+  
         public static bool Login(string userName, string password)
         {
 

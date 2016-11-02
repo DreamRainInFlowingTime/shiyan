@@ -13,7 +13,9 @@ namespace BLL
 
     public class Class1
     {
-  
+        public void caodan
+        {
+        }
         public static bool Login(string userName, string password)
         {
 
